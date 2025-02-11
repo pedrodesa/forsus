@@ -1,0 +1,16 @@
+site_name: ForSUS
+repo_url: https://github.com/pedrodesa/forsus
+repo_name: pedrodesa/forsus
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  lnaguage: pt-BR
+  logo: assets/logo_forsus.png
+  favicon: assets/logo_forsus.png
+  
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
