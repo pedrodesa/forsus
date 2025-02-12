@@ -1,2 +1,2 @@
 # ForSUS
-![logo](docs/assets/logo_forsus.png){width="300"}
+![logo](docs/assets/logo_forsus.png)
